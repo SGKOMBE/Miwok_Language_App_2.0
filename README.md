@@ -8,13 +8,7 @@ names and some daily used **PHRASES**.
 Along with the translation to the Miwok word, **Pictorial Information** of translated word as well as the **Pronounciation** of 
 translated word is also provided for effective and quick learning of the language.
 
-## **Screenshots**  
-
-![alt text](https://github.com/SGKOMBE/Miwok_Language_App/blob/master/app/src/Common/Images/Home%20screen.png "Home Screen Image")
-![alt text](https://github.com/SGKOMBE/Miwok_Language_App/blob/master/app/src/Common/Images/Numbers%20Activity.png "Numbers Activity Image")
-![alt text](https://github.com/SGKOMBE/Miwok_Language_App/blob/master/app/src/Common/Images/Family%20Members%20Activity.png "Family Activity Image")
-![alt text](https://github.com/SGKOMBE/Miwok_Language_App/blob/master/app/src/Common/Images/Colors%20Activity.png "Colors Activity Image")
-![alt text](https://github.com/SGKOMBE/Miwok_Language_App/blob/master/app/src/Common/Images/Phrases%20Activity.png "Phrases Activity Image")  
+## **Screenshots**    
 
 ## **Android Palette**  
 <dl>
