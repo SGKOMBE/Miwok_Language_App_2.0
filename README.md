@@ -10,6 +10,11 @@ translated word is also provided for effective and quick learning of the languag
 
 ## **Screenshots**    
 
+![alt text](https://github.com/SGKOMBE/Miwok_Language_App_2.0/blob/master/app/src/Common/Images/nmbr.png "Numbers Tab Image")
+![alt text](https://github.com/SGKOMBE/Miwok_Language_App_2.0/blob/master/app/src/Common/Images/fmly.png "Family Tab Image")
+![alt text](https://github.com/SGKOMBE/Miwok_Language_App_2.0/blob/master/app/src/Common/Images/clrs.png "Colors Tab Image")
+![alt text](https://github.com/SGKOMBE/Miwok_Language_App_2.0/blob/master/app/src/Common/Images/phrs.png "Phrases Tab Image")  
+
 ## **Android Palette**  
 <dl>
  	<li>OnclickListeners, Intents.</li>
